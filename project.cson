@@ -1,0 +1,13 @@
+[
+  {
+    title: 'mkchromecast.git'
+    group: 'syn-net'
+    paths: [
+      'syn-net/mkchromecast.git'
+    ]
+    devMode: false
+    settings:
+      'editor.tabLength': 2
+      'editor.showInvisibles': true
+  }
+]
