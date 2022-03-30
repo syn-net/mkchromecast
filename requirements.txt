@@ -1,8 +1,9 @@
 PyGObject
 requests
 psutil
-Flask
+flask
 netifaces
 pychromecast>=4.2
+pychromecast
 PyQt5
 soco
